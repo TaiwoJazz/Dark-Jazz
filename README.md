@@ -8,16 +8,14 @@ If you like this theme kindly give it a 5⭐ in vs code marketplace.
 
 ## Screenshot
 
-https://github.com/TaiwoJazz/Dark-Jazz.git
+![]('screenshots/darkjazz_html.jpg' 'Dark Jazz HTML')
 
-![Dark Jazz HTML]('./darkjazz_html.jpg' 'HTML')
+![]('screenshots/darkjazz_css.jpg' 'Dark Jazz CSS')
 
-![Dark Jazz CSS]('./darkjazz_css.jpg' 'CSS')
+![Dark Jazz JS]('screenshots/darkjazz_js.jpg' 'Dark Jazz JS')
 
-![Dark Jazz JS]('./darkjazz_js.jpg' 'JavaScript')
+![Dark Jazz React]('screenshots/darkjazz_react.jpg' 'Dark Jazz React')
 
-![Dark Jazz React]('./darkjazz_react.jpg' 'React')
-
-![Dark Jazz Full Screen]('./darkjazz_fullscreen.jpg' 'Full Screen in React')
+![Dark Jazz Full Screen]('screenshots/darkjazz_fullscreen.jpg' 'Dark Jazz Full Screen')
 
 **Enjoy!**
