@@ -14,10 +14,10 @@ If you like this theme kindly give it a 5⭐ in vs code marketplace.
 
 ![Dark Jazz JS]('./screenshots/darkjazz_js.jpg')
 
-![Dark Jazz React]('/screenshots/darkjazz_react.jpg')
+#### Dark Jazz React
+<img src='/screenshots/darkjazz_react.jpg' alt="Dark Jazz React" />
 
-![Dark Jazz Full Screen]('/screenshots/darkjazz_fullscreen.JPG')
-
-<img src='/screenshots/darkjazz_fullscreen.jpg' />
+#### Dark Jazz Full Screen
+<img src='/screenshots/darkjazz_fullscreen.jpg' alt="Dark Jazz Full Screen" />
 
 **Enjoy!**
