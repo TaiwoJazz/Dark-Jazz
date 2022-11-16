@@ -1,4 +1,4 @@
-<img src='./screenshots/logo.png' alt="Logo" /> # Dark Jazz
+# Dark Jazz
 
 ## Introduction
 
