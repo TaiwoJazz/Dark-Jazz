@@ -8,16 +8,24 @@ If you like this theme kindly give it a 5⭐ in vs code marketplace.
 
 ## Screenshot
 
-![Dark Jazz HTML]('./screenshots/darkjazz_html.jpg')
+### HTML
 
-![Dark Jazz CSS]('./screenshots/darkjazz_css.jpg')
+<img src='./screenshots/darkjazz_html.jpg' alt="Dark Jazz HTML" />
 
-![Dark Jazz JS]('./screenshots/darkjazz_js.jpg')
+### CSS
 
-#### Dark Jazz React
+<img src='./screenshots/darkjazz_css.jpg' alt="Dark Jazz CSS" />
+
+### JS
+
+<img src='./screenshots/darkjazz_js.jpg' alt="Dark Jazz JavaScritp" />
+
+### React
+
 <img src='/screenshots/darkjazz_react.jpg' alt="Dark Jazz React" />
 
-#### Dark Jazz Full Screen
+### Full Screen
+
 <img src='/screenshots/darkjazz_fullscreen.jpg' alt="Dark Jazz Full Screen" />
 
 **Enjoy!**
