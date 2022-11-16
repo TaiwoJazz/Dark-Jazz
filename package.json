@@ -2,7 +2,7 @@
   "name": "dark-jazz",
   "displayName": "Dark Jazz",
   "description": "Beautiful VS Code Theme for all dark mode Developers ",
-  "icon": "/screenshots/icon.png",
+  "icon": "icon.png",
   "version": "1.2.0",
   "publisher": "TaiwoJazz",
   "repository": {
@@ -20,6 +20,13 @@
     "taiwojazz",
     "taiwo jazz"
   ],
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "galleryBanner": {
+    "color": "#0d0c2b",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.73.0"
   },
