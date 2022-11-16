@@ -18,5 +18,6 @@ If you like this theme kindly give it a 5⭐ in vs code marketplace.
 
 ![Dark Jazz Full Screen]('/screenshots/darkjazz_fullscreen.JPG')
 
+<img src='/screenshots/darkjazz_fullscreen.jpg' />
 
 **Enjoy!**
