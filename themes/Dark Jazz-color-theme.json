@@ -33,9 +33,12 @@
 		"activityBar.background": "#0d0c2b",
 		"activityBarBadge.background": "#007acc",
 
-		// bottom menu
-		"statusBar.background": "#040146",
-		"statusBar.foreground": "#6f7d97",
+		// bottom stauts menu
+		"statusBar.background": "#0d0c2b",
+		"statusBar.foreground": "#8898b6",
+		"statusBar.border": "#353c56",
+		"statusBar.noFolderBackground" : "#0d0c2b",
+    "statusBar.debuggingBackground": "#0d0c2b",
 
 		// all folders arrow icons 
 		"icon.foreground": "#6f7d97",
@@ -51,7 +54,6 @@
 		"tab.activeBackground": "#121143",
 		"tab.activeBorder": "#0184ff",
 		"tab.inactiveBackground": "#0d0c2b",
-	
 
 		// folders backgrounds and hover
 		"list.activeSelectionBackground": "#05035a", 
@@ -69,8 +71,8 @@
 		"quickInput.foreground": "#b4c2dc",
 
 		// folders color when git is initialize
-		"gitDecoration.untrackedResourceForeground": "#98bd60",
-		"gitDecoration.modifiedResourceForeground": "#3ddf7b",
+		"gitDecoration.untrackedResourceForeground": "#3ddf7b",
+		"gitDecoration.modifiedResourceForeground": "#98bd60",
 		"gitDecoration.ignoredResourceForeground": "#546E7A",
 		
 		"tree.indentGuidesStroke": "#444b67",
@@ -78,11 +80,6 @@
 		"extensionButton.background": "#0d0c2b",
 
 		"welcomePage.background": "#0d0c2b",
-
-		
-		
-
-
 		
 	},
 	"tokenColors": [
@@ -93,7 +90,6 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#546E7A"
 			}
 		},
@@ -104,7 +100,8 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#21e1b4"
+				"foreground": "#21e1b4",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -142,19 +139,20 @@
 			"scope": [
 				"keyword.control",
 				"constant.other.color",
-				"punctuation",
-				"meta.tag",
+				// "punctuation",
+				// "meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
 				"punctuation.definition.tag.begin.html",
 				"punctuation.definition.tag.end.html",
-				"punctuation.section.embedded",
+				// "punctuation.section.embedded",
 				"keyword.other.template",
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#5ab5da"
+				"foreground": "#5ab5da",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -178,7 +176,9 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#73d4f7"
+				"foreground": "#73d4f7",
+				"fontStyle": "italic"
+				
 			}
 		},
 		{
@@ -228,7 +228,8 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#C3E88D",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -244,7 +245,8 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#09E85E"
+				"foreground": "#09E85E",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -317,7 +319,8 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#bf97ffc1"
+				"foreground": "#bf97ffc1",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -337,7 +340,8 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#FFCB6B",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -346,7 +350,8 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#82AAFF",
+				
 			}
 		},
 		{
@@ -672,7 +677,8 @@
 				"punctuation.section.class.end"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"fontStyle": "",
+				"foreground": "#EEFFFF",
 			}
 		},
 		{

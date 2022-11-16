@@ -24,8 +24,14 @@ If you like this theme kindly give it a 5⭐ in vs code marketplace.
 
 <img src='/screenshots/darkjazz_react.jpg' alt="Dark Jazz React" />
 
-### Full Screen
+## Installation
 
-<img src='/screenshots/darkjazz_fullscreen.jpg' alt="Dark Jazz Full Screen" />
+1.  Install ![Visual Studio Code]('https://code.visualstudio.com/')
+2.  Launch Visual Studio Code
+3.  Choose Extensions from menu
+4.  Search for **Dark Jazz**
+5.  Click Install to install it
+6.  Click Reload to reload the Code
+7.  From the menu bar click: Code > Preferences > Color Theme > __Dark Jazz__
 
 **Enjoy!**
