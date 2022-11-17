@@ -4,7 +4,7 @@
 		// coding area
 		"editor.background": "#0d0c2b",
 		"editor.wordHighlightBackground": "#fdfcff40",
-		"editor.lineHighlightBorder": "#353c56",
+		"editor.lineHighlightBackground": "#08062f",
 		"editorLineNumber.foreground": "#6f7d97",
 		"editorLineNumber.activeForeground": "#09E85E",
 		"editorGroupHeader.tabsBackground": "#0d0c2b",

@@ -32,6 +32,6 @@ If you like this theme kindly give it a 5⭐ in vs code marketplace.
 4.  Search for **Dark Jazz**
 5.  Click Install to install it
 6.  Click Reload to reload the Code
-7.  From the menu bar click: Code > Preferences > Color Theme > __Dark Jazz__
+7.  From the menu bar click: Code > Preferences > Color Theme > **Dark Jazz**
 
 **Enjoy!**
